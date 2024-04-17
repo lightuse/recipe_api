@@ -24,13 +24,13 @@ There is the below libraries to run the code here beyond the Anaconda distributi
 
 ## File Descriptions <a name="files"></a>
 
- recipe_api  
- |- client
- │   └── client.http # Testing
- |- database
- │   └── database.py # DB acssess
- |- models
- │   └── pydantic
- │   │   └──recipe.py # validation
- │   └──models.py # 
- |- main.py
+ recipe_api    
+ |- client  
+ │   └── client.http # Testing  
+ |- database  
+ │   └── database.py # DB access  
+ |- models  
+ │   └── pydantic   
+ │   │   └──recipe.py # Validation  
+ │   └──models.py # Model
+ |- main.py  
