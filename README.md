@@ -32,5 +32,5 @@ There is the below libraries to run the code here beyond the Anaconda distributi
  |- models  
  │   └── pydantic   
  │   │   └──recipe.py # Validation  
- │   └──models.py # Model
+ │   └──models.py # Model  
  |- main.py  
