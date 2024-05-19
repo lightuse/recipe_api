@@ -38,7 +38,7 @@ typing_extensions==4.11.0
 uvicorn==0.16.0
 watchgod==0.7
 websockets==10.1
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 wincertstore==0.2
 wrapt==1.13.3
 zipp==3.6.0
